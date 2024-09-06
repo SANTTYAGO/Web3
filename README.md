@@ -27,7 +27,7 @@ Este proyecto es una aplicación web desarrollada con **ReactPy** y **Flask**, q
    ```
 3. Ejecuta la aplicación:
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Datos
